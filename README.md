@@ -47,6 +47,6 @@ Key goals include:
 - **Clustering & Recommendation:** KMeans, Cosine Similarity, TF-IDF
 - **Visualization:** Matplotlib, Seaborn
 - **Evaluation:** Silhouette Score, Confusion Matrix, Accuracy, Precision, Recall, F1-Score
-- **IDE:** Jupyter Notebook
+- **IDE:** Google Colab
 
 ---
