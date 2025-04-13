@@ -19,6 +19,9 @@ In 2018, Flixable reported that the number of TV shows on Netflix had tripled si
 
 Netflix has rapidly evolved its catalog over the years. Understanding how content has shifted (movies vs. TV shows), what's available across countries, and how to find similar content can offer strong business insights.  
 
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/24cdf308-2165-4df9-8839-945158c283ea" />
+
+
 Key goals include:
 
 - Perform EDA following the **UBM Rule** (Univariate, Bivariate, Multivariate Analysis).
